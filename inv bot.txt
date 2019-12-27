@@ -1,0 +1,6 @@
+CLIENT ID
+659773771703386122
+CLIENT SECRET
+jM9sW4KzRKKLhe8nUZ0jGTTMWXBb9ZcS
+
+https://discordapp.com/oauth2/authorize?&client_id=659773771703386122&scope=bot&permissions=8
